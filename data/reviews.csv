@@ -1,0 +1,16 @@
+review_id,order_id,rating,comment,review_date
+R001,O001,4,Great value for the price.,2024-03-01
+R002,O002,3,Fast shipping and solid quality.,2024-03-02
+R003,O003,4,Met my expectations.,2024-03-03
+R004,O004,5,Would definitely recommend.,2024-03-04
+R005,O005,3,"Packaging could be better, product works fine.",2024-03-05
+R006,O006,3,Great value for the price.,2024-03-06
+R007,O007,5,Fast shipping and solid quality.,2024-03-07
+R008,O008,3,Met my expectations.,2024-03-08
+R009,O009,4,Would definitely recommend.,2024-03-09
+R010,O010,5,"Packaging could be better, product works fine.",2024-03-10
+R011,O011,3,Great value for the price.,2024-03-11
+R012,O012,5,Fast shipping and solid quality.,2024-03-12
+R013,O013,3,Met my expectations.,2024-03-13
+R014,O014,3,Would definitely recommend.,2024-03-14
+R015,O015,3,"Packaging could be better, product works fine.",2024-03-15

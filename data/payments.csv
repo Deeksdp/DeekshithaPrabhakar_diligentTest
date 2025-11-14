@@ -1,0 +1,16 @@
+payment_id,order_id,amount,method,payment_status
+PM001,O001,149.99,Credit Card,Completed
+PM002,O002,199.50,PayPal,Completed
+PM003,O003,987.00,Gift Card,Pending
+PM004,O004,238.00,Credit Card,Completed
+PM005,O005,118.00,PayPal,Completed
+PM006,O006,79.98,Gift Card,Pending
+PM007,O007,109.50,Credit Card,Completed
+PM008,O008,89.00,PayPal,Completed
+PM009,O009,396.00,Gift Card,Pending
+PM010,O010,129.00,Credit Card,Completed
+PM011,O011,249.00,PayPal,Completed
+PM012,O012,399.00,Gift Card,Pending
+PM013,O013,278.00,Credit Card,Completed
+PM014,O014,99.00,PayPal,Completed
+PM015,O015,79.00,Gift Card,Pending

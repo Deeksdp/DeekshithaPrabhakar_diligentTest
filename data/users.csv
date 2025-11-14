@@ -1,0 +1,16 @@
+user_id,name,email,join_date,loyalty_tier
+U001,Ava Patel,ava.patel@shopperhub.com,2024-01-01,Bronze
+U002,Noah Smith,noah.smith@shopperhub.com,2024-01-04,Silver
+U003,Liam Chen,liam.chen@shopperhub.com,2024-01-07,Gold
+U004,Emma Lopez,emma.lopez@shopperhub.com,2024-01-10,Bronze
+U005,Mia Davis,mia.davis@shopperhub.com,2024-01-13,Silver
+U006,Elijah Lee,elijah.lee@shopperhub.com,2024-01-16,Gold
+U007,Isabella Brown,isabella.brown@shopperhub.com,2024-01-19,Bronze
+U008,Sophia Wilson,sophia.wilson@shopperhub.com,2024-01-22,Silver
+U009,James Garcia,james.garcia@shopperhub.com,2024-01-25,Gold
+U010,Lucas Nguyen,lucas.nguyen@shopperhub.com,2024-01-28,Bronze
+U011,Amelia Clark,amelia.clark@shopperhub.com,2024-01-31,Silver
+U012,Harper Miller,harper.miller@shopperhub.com,2024-02-03,Gold
+U013,Ethan Hernandez,ethan.hernandez@shopperhub.com,2024-02-06,Bronze
+U014,Oliver Johnson,oliver.johnson@shopperhub.com,2024-02-09,Silver
+U015,Charlotte Martinez,charlotte.martinez@shopperhub.com,2024-02-12,Gold

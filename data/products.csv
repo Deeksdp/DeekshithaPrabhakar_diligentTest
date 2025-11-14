@@ -1,0 +1,16 @@
+product_id,name,category,price,in_stock
+P001,Smartwatch,Wearables,149.99,53
+P002,Noise Cancelling Headphones,Audio,199.50,56
+P003,4K Monitor,Displays,329.00,59
+P004,Mechanical Keyboard,Peripherals,119.00,62
+P005,Gaming Mouse,Peripherals,59.00,65
+P006,Wireless Charger,Accessories,39.99,68
+P007,Portable SSD,Storage,109.50,71
+P008,Bluetooth Speaker,Audio,89.00,74
+P009,Fitness Tracker,Wearables,99.00,77
+P010,Smart Home Hub,Smart Home,129.00,80
+P011,Action Camera,Cameras,249.00,83
+P012,Drone Mini,Cameras,399.00,86
+P013,E-reader,Tablets,139.00,89
+P014,USB-C Hub,Accessories,49.50,92
+P015,Noise Sensor,Smart Home,79.00,95
